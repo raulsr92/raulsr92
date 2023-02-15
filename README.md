@@ -6,4 +6,5 @@
 - 💬 Ask me about my videos hosted in YouTube
 - ⚡ Fun fact: I love Harry Potter (books and movies)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulsr92&layout=compact)](https://github.com/raulsr92/github-readme-stats)
+

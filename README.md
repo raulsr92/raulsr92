@@ -8,3 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulsr92)](https://github.com/raulsr92/github-readme-stats)
 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=raulsr92&show_icons=true&theme=radical)
